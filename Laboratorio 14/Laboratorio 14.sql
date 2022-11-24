@@ -1,0 +1,3 @@
+-- Crear la base de datos del diagrama Blogs.png
+-- Ingresar registros de prueba.
+-- Realizar consultas de prueba.
